@@ -49,6 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 Developed by: Marliya Banu B
+
+
 Reg no: 212225040229
 
 ```
